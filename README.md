@@ -1,6 +1,6 @@
 ## Hola bienvenidos a mi repositorio 👋
-## por el momento solo tengo dos proyectos 
-## enlace directo a mi WhatsApp 
+por el momento solo tengo dos proyectos 🙀
+enlace directo a mi WhatsApp 👇
 https://wa.me/+51910471065?texto=hola
 <!--
 **Llilmer-G-Shock/Llilmer-G-Shock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
