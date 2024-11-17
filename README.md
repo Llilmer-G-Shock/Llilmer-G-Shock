@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola bienvenidos a mi repositorio 👋
+## por el momento solo tengo dos proyectos 
 <!--
 **Llilmer-G-Shock/Llilmer-G-Shock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
