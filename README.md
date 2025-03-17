@@ -1,7 +1,10 @@
 ## Hola bienvenidos a mi repositorio 👋
 por el momento solo tengo dos proyectos 🙀
 enlace directo a mi WhatsApp 👇
-https://wa.me/+51910471065?texto=hola
+##https://wa.me/+51910471065?texto=hola
+
+un grupo de colaboración Senko san
+##https://chat.whatsapp.com/GwX6sg5gnf412g9a3BHE02
 <!--
 **Llilmer-G-Shock/Llilmer-G-Shock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
