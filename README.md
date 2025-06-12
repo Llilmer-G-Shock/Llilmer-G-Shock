@@ -5,6 +5,10 @@
 >  𝙨𝙞 𝙩𝙞𝙚𝙣𝙚𝙨 𝙖𝙡𝙜𝙪𝙣 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙖 𝙘𝙤𝙣𝙩𝙖𝙘𝙩𝙖𝙢𝙚 
  https://wa.me/+51910471065
 <!--
+
+> .[! warning].
+> no cambies los códigos 
+
 **Llilmer-G-Shock/Llilmer-G-Shock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
